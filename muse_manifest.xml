@@ -1,18 +1,18 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="chiaradigeronimo.project.com" resolutions="1x" timestamp="1493907334870">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="interpract.com" resolutions="1x" timestamp="1493911641623">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="seeing-voices.css" crc="4085156015" ref="seeing-voices"/>
     <file name="nomq_seeing-voices.css" crc="4078898096" ref="seeing-voices"/>
-    <file name="fear-and-love.css" crc="236438383" ref="fear-and-love"/>
-    <file name="nomq_fear-and-love.css" crc="16253596" ref="fear-and-love"/>
+    <file name="fear-and-love.css" crc="356431528" ref="fear-and-love"/>
+    <file name="nomq_fear-and-love.css" crc="3984426549" ref="fear-and-love"/>
     <file name="future-archives.css" crc="4214681443" ref="future-archives"/>
     <file name="nomq_future-archives.css" crc="445139355" ref="future-archives"/>
     <file name="shadow-world.css" crc="4278439488" ref="shadow-world"/>
     <file name="nomq_shadow-world.css" crc="109210029" ref="shadow-world"/>
-    <file name="identity.css" crc="4028985043" ref="identity"/>
+    <file name="identity.css" crc="4270909256" ref="identity"/>
     <file name="nomq_identity.css" crc="62142064" ref="identity"/>
-    <file name="ficciones-typographica.css" crc="3950472785" ref="ficciones-typographica"/>
-    <file name="nomq_ficciones-typographica.css" crc="346679334" ref="ficciones-typographica"/>
+    <file name="ficciones-typographica.css" crc="12123492" ref="ficciones-typographica"/>
+    <file name="nomq_ficciones-typographica.css" crc="254098317" ref="ficciones-typographica"/>
     <file name="index.css" crc="4257981573" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -36,11 +36,10 @@
     <file name="clip-3.gif" crc="187385517" ref="shadow-world"/>
     <file name="clip-4.gif" crc="3973265895" ref="shadow-world"/>
     <file name="segmento 1.png" crc="130817475" ref="fear-and-love"/>
-    <file name="segmento 2.png" crc="3903266693" ref="fear-and-love"/>
+    <file name="segmento 2-u735-fr.png" crc="264736363" ref="fear-and-love"/>
     <file name="segmento 3.png" crc="162551065" ref="fear-and-love"/>
     <file name="segmento 4.png" crc="342461501" ref="fear-and-love"/>
     <file name="dna---hsp.gif" crc="210996905" ref="fear-and-love"/>
-    <file name="segmento 2-u735-fr.png" crc="264736363" ref="fear-and-love"/>
     <file name="segmento 4-u738-fr.png" crc="90182025" ref="fear-and-love"/>
     <file name="ft 1.jpg" crc="464372654" seo="true" ref="ficciones-typographica"/>
     <file name="blank.gif" crc="4208392903" ref="ficciones-typographica:seeing-voices:future-archives:identity"/>
@@ -50,14 +49,12 @@
     <file name="ruins 4.jpg" crc="214044494" seo="true" ref="ficciones-typographica"/>
     <file name="ruins 5.jpg" crc="4163278750" seo="true" ref="ficciones-typographica"/>
     <file name="ruins 4 copy.jpg" crc="3802203698" seo="true" ref="ficciones-typographica"/>
-    <file name="ruins 22.jpg" crc="3770059007" seo="true" ref="ficciones-typographica"/>
-    <file name="ruins 52.jpg" crc="4130910773" seo="true" ref="ficciones-typographica"/>
     <file name="ruins 6.jpg" crc="4130910773" seo="true" ref="ficciones-typographica"/>
     <file name="loading.gif" crc="3815509949" ref="ficciones-typographica"/>
     <file name="ft 1480x240.jpg" crc="3975424657" seo="true" ref="ficciones-typographica"/>
     <file name="ruins 4 copy480x240.jpg" crc="185293996" seo="true" ref="ficciones-typographica"/>
-    <file name="ruins 2480x240.jpg" crc="4048221057" seo="true" ref="ficciones-typographica"/>
-    <file name="ruins 5480x240.jpg" crc="371855148" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 2480x240.jpg" crc="3872424396" seo="true" ref="ficciones-typographica"/>
+    <file name="ruins 5480x240.jpg" crc="78143645" seo="true" ref="ficciones-typographica"/>
     <file name="ruins 6480x240.jpg" crc="371855148" seo="true" ref="ficciones-typographica"/>
     <file name="sv-1.gif" crc="203820338" ref="seeing-voices"/>
     <file name="chiaradg2.jpg" crc="334254003" ref="seeing-voices"/>
@@ -108,17 +105,16 @@
     <file name="u4606-42.png" crc="4176319146" ref="future-archives"/>
     <file name="me 2.jpg" crc="9168440" ref="identity"/>
     <file name="self ruin 2.jpg" crc="382743262" ref="identity"/>
-    <file name="self ruin 22.jpg" crc="4252793714" ref="identity"/>
     <file name="f.jpg" crc="3987884859" ref="identity"/>
     <file name="mask 3.jpg" crc="3892482793" ref="identity"/>
     <file name="g.jpg" crc="502597111" ref="identity"/>
     <file name="mask 4.jpg" crc="158527747" ref="identity"/>
   </folder>
   <file name="index.html" crc="51860618" seo="true" mt="1493499147434" redirect="true"/>
-  <file name="shadow-world.html" crc="4047284836" seo="true" mt="1493655848065" redirect="true"/>
-  <file name="fear-and-love.html" crc="499483652" seo="true" mt="1493494099310" redirect="true"/>
-  <file name="ficciones-typographica.html" crc="310930896" seo="true" mt="1493750226716" redirect="true"/>
-  <file name="seeing-voices.html" crc="172309827" seo="true" mt="1493907276337" redirect="true"/>
-  <file name="future-archives.html" crc="3869372192" seo="true" mt="1493655243288" redirect="true"/>
-  <file name="identity.html" crc="65928179" seo="true" mt="1493750312024" redirect="true"/>
+  <file name="shadow-world.html" crc="4047284836" seo="true" mt="1493911183558" redirect="true"/>
+  <file name="fear-and-love.html" crc="130364009" seo="true" mt="1493911274198" redirect="true"/>
+  <file name="ficciones-typographica.html" crc="4085011503" seo="true" mt="1493911639679" redirect="true"/>
+  <file name="seeing-voices.html" crc="172309827" seo="true" mt="1493911301786" redirect="true"/>
+  <file name="future-archives.html" crc="3869372192" seo="true" mt="1493911525597" redirect="true"/>
+  <file name="identity.html" crc="3874680297" seo="true" mt="1493911428324" redirect="true"/>
 </manifest>
